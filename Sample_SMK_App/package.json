@@ -2,7 +2,7 @@
     "name": "Sample SMK App",
     "version": "0.0.1",
     "description": "My Simple Map Kit application.",
-    "author": "L.L",
+    "author": "G.L",
     "dependencies": {
         "@bcgov/smk": "1.1.9",
         "http-server": "^0.12.3"
